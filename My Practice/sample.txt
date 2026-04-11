@@ -1,0 +1,2 @@
+Hello, this is Luka!!
+I am now learning file handling concept with python.
