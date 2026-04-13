@@ -1,0 +1,2 @@
+x.txt File has 1 line.
+x.txt file has 5 word and 30 character.
